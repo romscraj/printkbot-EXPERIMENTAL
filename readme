@@ -11,6 +11,6 @@ Some notes:
 - idler bearings on X and Y axes are 624 bearings.
 - extruder uses 3x 624 bearings.
 - X and Y idler fender washers are 18mm OD x 4mm ID x 2mm nylon washers. These can easily be printed out if difficult to source.
-- endstop holders for Y and Z are work in progress. Hack your way around to mount these (epoxy / ziptie / design your own part etc.)
+- endstop holders for Y and Z are work in progress. Hack your way around to mount these (epoxy / ziptie / hammer something / design your own part etc.)
 - locking clip mechanism based on design limits using M3x40 bolt. If a longer bolt is used, the clip can be wider, increasing stability. This is untested, so it may or may not be important (stability standpoint at least for the current 120mmx120mm build area version)
 - IMPORTANT - hotend is work in progress. X carriage may not fit regularly used popular extruders. Do check through the design first and modify the parts before printing of needed. Also take special note of the nozzle distance from the lowest portion of the X carriage - your hotend nozzle has to be lower than the X carriage in order to print.
