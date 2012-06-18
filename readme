@@ -1,3 +1,6 @@
+Important note: This project has been superseded by https://github.com/romscraj/Portabee. This repo remains as reference only.
+______________________________________________________________________
+
 Mandatory friendly warning - This design is currently under development. The design files are intended for reference only. Which simply means print / use / build at your own risk. But then you already know that.
 
 This repo contains the STL files as well as the Google sketchup assembly drawing. You can use the explode command in sketchup if you need to modify any of the source drawings (an alternative to importing STLs).
